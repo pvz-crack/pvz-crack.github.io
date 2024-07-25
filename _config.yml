@@ -6,9 +6,9 @@ plugins:
   - jekyll-seo-tag
 markdonw: kramdown
 author:
-  name: pvz-crack-version
-  email: admin@pvz-crack-version.com
+  name: pvz-crack
+  email: admin@pvz-crack.com
 github:
   is_user_page: false
   is_project_page: false
-baidu_analytics: fb563b4c54f5db27b6b0213da7a89f1e
+baidu_analytics: 2bf009778d67cb4e55a2d2c524e7b2d5
